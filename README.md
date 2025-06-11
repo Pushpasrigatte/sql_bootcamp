@@ -69,3 +69,14 @@ Basic SQL Operations
     - Insert 5 students with name, age, and course
     - Retrieve all students and filter by course
 
+
+
+for save the database file to the our own laptop or system
+
+syntax:
+cd C:\xampp\mysql\bin
+mysqldump -u root -p your_database_name > C:\path\to\save\backup.sql
+
+
+cd C:\xampp\mysql\bin
+C:\xampp\mysql\bin>mysqldump -u root -p first_frontend_backend_connection > "C:\Users\pushpa\OneDrive\Desktop\my_flask_app\backup.sql"
