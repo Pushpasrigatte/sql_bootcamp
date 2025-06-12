@@ -81,9 +81,7 @@ mysqldump -u root -p your_database_name > C:\path\to\save\backup.sql
 cd C:\xampp\mysql\bin
 C:\xampp\mysql\bin>mysqldump -u root -p first_frontend_backend_connection > "C:\Users\pushpa\OneDrive\Desktop\my_flask_app\backup.sql"
 
-Sure! Here's a **clean and well-structured version** of the **Day 2: Advanced Queries & Data Manipulation** notes — without bold letters and without any markdown formatting:
 
----
 
 Day 2: Advanced Queries and Data Manipulation
 Objective: Learn how to update, delete, filter, sort, and join data using SQL.
